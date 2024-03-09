@@ -1,7 +1,7 @@
 { 
-     "name": " JARVIS ", 
+     "name": " HKz ", 
      "logo": "https://telegra.ph/file/83db3b7786ffa9948962b.jpg", 
-     "repository": "https://github.com/doraemon890/jarvis-ban-all/tree/main", 
+     "repository": "https://github.com/llxHKxll/HKz-Banall", 
      "env": { 
        "BOT_TOKEN1": { 
              "description": "", 
@@ -55,7 +55,7 @@
          }, 
          "SUDO": { 
              "description": "", 
-             "value": "1983816571", 
+             "value": "6329058409",
              "required": true 
          } 
      }, 
