@@ -1,5 +1,5 @@
 <img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://telegra.ph/file/c041012d7952109d6b1b6.jpg)">
-<h3><img  style="align-item" :"center" src="[https://telegra.ph/file/fbd55ee956abef2a74e15.jpg](https://telegra.ph/file/c041012d7952109d6b1b6.jpg)" width="80px" height="70%"><img src="[https://readme-typing-svg.herokuapp.com](https://telegra.ph/file/c041012d7952109d6b1b6.jpg)?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+𝐇𝐊+𝐗𝐃+🖤+🥀"></b></h3>
+<h3><img  style="align-item" :"center" src="[https://telegra.ph/file/fbd55ee956abef2a74e15.jpg](https://telegra.ph/file/c041012d7952109d6b1b6.jpg)" width="80px" height="70%"><img src="[https://readme-typing-svg.herokuapp.com]?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+𝐇𝐊+𝐗𝐃+🖤+🥀"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=B041FF&width=350&lines=✨+🦋𝐇𝐊𝐳+𝐁𝐀𝐍𝐀𝐋𝐋+𝐁𝐎𝐓🖤+🥀"></b></h1>
