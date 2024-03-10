@@ -1,7 +1,7 @@
 <h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=B041FF&width=350&lines=✨+🦋𝐇𝐊𝐳+𝐁𝐀𝐍𝐀𝐋𝐋+𝐁𝐎𝐓🖤+🥀"></b></h1>
 
 
-<p align="center"><a href="https://t.me/llxHKxll"><img src="(https://telegra.ph/file/c041012d7952109d6b1b6.jpg)" width="400"></a></p>
+<p align="center"><a href="https://t.me/llxHKxll"><img src="(https://telegra.ph/file/c041012d7952109d6b1b6.jpg)" </p>
 
 
 
